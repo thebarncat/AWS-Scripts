@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# in a nutshell:
+# nutshell:
 # create VPC and subnets
 # create IGW and attach to the VPC 
 # create custom route table in VPC
